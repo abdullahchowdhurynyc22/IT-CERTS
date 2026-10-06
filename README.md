@@ -153,8 +153,10 @@ Troubleshooting
 ## 
 ## Certifications
 
-**CompTIA A+** <br>
+**CompTIA +** <br>
 
+<img src="https://github.com/abdullahchowdhurynyc22/IT-CERTS/blob/597b51e939e870e182b8e0d52fa96139a24333fe/IMG_1145.JPG?raw=true" alt="CompTIA Security+" width="600"/>
+<img src="https://github.com/abdullahchowdhurynyc22/IT-CERTS/blob/597b51e939e870e182b8e0d52fa96139a24333fe/IMG_1147.JPG?raw=true" alt="CompTIA A+" width="600"/>
 
 ---
 
